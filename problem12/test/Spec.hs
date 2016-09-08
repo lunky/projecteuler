@@ -27,7 +27,7 @@ main = hspec $ do
       it "should generate the factors for 36" $ do 
         factors 36 `shouldBe` [2,2,3,3]
 
-    describe "divisorCount takes factors and gets divisorCount" $ do
+    describe "divisorCount takes an int and gets returns the number of divisors" $ do
       it "should generate the divisorCount for 1" $ do 
         divisorCount 1 `shouldBe` 1
       it "should generate the divisorCount for 3" $ do 

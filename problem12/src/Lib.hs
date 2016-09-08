@@ -4,7 +4,6 @@ module Lib
     ) where
 
 import Data.List
-import Debug.Trace
 
 triangleNumbers = scanl1 (\acc x -> x + acc) [1..]
 

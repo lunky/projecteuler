@@ -5,10 +5,9 @@ description:         Please see README.md
 homepage:            https://github.com/githubuser/problem12#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
-maintainer:          example@example.com
-copyright:           2016 Author name here
-category:            Web
+author:              Quinn Wilson
+copyright:           2016 Quinn Wilson
+category:            Kata
 build-type:          Simple
 -- extra-source-files:
 cabal-version:       >=1.10
